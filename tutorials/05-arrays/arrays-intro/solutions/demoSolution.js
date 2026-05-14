@@ -1,13 +1,23 @@
 /**** INTRODUCTION TO ARRAYS: SOLUTION ****/
 
 /*
-    An Array is a special type of variable that can hold a list of values. Instead of creating ten different variables for ten crew members, you can store them all in one place.
+    An Array is a data structure that can hold a list of values. 
+    Instead of creating ten different variables for ten crew members, 
+    you can store them all in one place.
 
     Array Literals: We create arrays using square brackets [].
 
-    Naming Practices: Since an array represents a collection, it is a best practice to name your variable with a plural noun (e.g., ships, planets, coordinates). This makes it obvious to anyone reading your code that the variable holds multiple items.
+    Naming Practices: Since an array represents a collection, 
+    it is a best practice to name your variable with a plural 
+    noun (e.g., ships, planets, coordinates). This makes it 
+    obvious to anyone reading your code that the variable holds 
+    multiple items.
 
-    Mixed Data: In JavaScript, an array can technically hold different types of data (strings, numbers, booleans) all at once, though usually, we try to keep them consistent for the sake of the "Mission."
+    Mixed Data: In JavaScript, an array can technically hold 
+    different types of data (strings, numbers, booleans) all at 
+    once, though usually, we try to keep them consistent. In the
+    future you will learn about JavaScript objects, which are 
+    better-suited for storing mixed data types.
 */
 
 /** EXAMPLE 1 - DECLARING ARRAYS **/
