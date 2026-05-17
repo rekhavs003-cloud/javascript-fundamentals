@@ -99,16 +99,16 @@ This particular collection of coding exercises focuses solely on JavaScript (occ
 
 | Topics                                                | Code                                                                                 | Videos    | Length |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------ | --------- | -----: |
-| Introduction to Arrays                                | [arrays-intro](/tutorials/05-arrays/arrays-intro/)                                   | Demo      |        |
-| Creating Arrays of n Length                           | [creating-n-length](/tutorials/05-arrays/creating-n-length/)                         | Demo      |        |
-| Array Length, Indexing, and Bracket Notation          | [length-indexing-notation](/tutorials/05-arrays/length-indexing-notation/)           | Demo      |        |
-| Common Array Methods: Adding & Removing Elements      | [array-methods-add-remove](/tutorials/05-arrays/array-methods-add-remove/)           | Demo      |        |
-| Common Array Methods: Searching & Accessing Elements  | [array-methods-search-access](/tutorials/05-arrays/array-methods-search-access/)     | Demo      |        |
-| Common Array Methods: Combining & Extracting Elements | [array-methods-combine-extract](/tutorials/05-arrays/array-methods-combine-extract/) | Demo      |        |
-| Common Array Methods: Sorting & Reversing Elements    | [array-methods-sort-reverse](/tutorials/05-arrays/array-methods-sort-reverse/)       | Demo      |        |
-| Converting Between Strings & Arrays                   | [array-string-conversion](/tutorials/05-arrays/array-string-conversion/)             | Demo      |        |
-| Multi-Dimensional Arrays                              | [multi-dimensional-arrays](/tutorials/05-arrays/multi-dimensional-arrays/)           | Demo      |        |
-|                                                       |                                                                                      | **TOTAL** |        |
+| Introduction to Arrays                                | [arrays-intro](/tutorials/05-arrays/arrays-intro/)                                   | Demo      |   6:14 |
+| Creating Arrays of n Length                           | [creating-n-length](/tutorials/05-arrays/creating-n-length/)                         | Demo      |   4:52 |
+| Array Length, Indexing, and Bracket Notation          | [length-indexing-notation](/tutorials/05-arrays/length-indexing-notation/)           | Demo      |   4:31 |
+| Common Array Methods: Adding & Removing Elements      | [array-methods-add-remove](/tutorials/05-arrays/array-methods-add-remove/)           | Demo      |   4:04 |
+| Common Array Methods: Querying & Accessing Elements   | [array-methods-query-access](/tutorials/05-arrays/array-methods-query-access/)       | Demo      |   3:51 |
+| Common Array Methods: Combining & Extracting Elements | [array-methods-combine-extract](/tutorials/05-arrays/array-methods-combine-extract/) | Demo      |   4:59 |
+| Common Array Methods: Sorting & Reversing Elements    | [array-methods-sort-reverse](/tutorials/05-arrays/array-methods-sort-reverse/)       | Demo      |   2:56 |
+| Converting Between Strings & Arrays                   | [array-string-conversion](/tutorials/05-arrays/array-string-conversion/)             | Demo      |   5:46 |
+| Multi-Dimensional Arrays                              | [multi-dimensional-arrays](/tutorials/05-arrays/multi-dimensional-arrays/)           | Demo      |   6:01 |
+|                                                       |                                                                                      | **TOTAL** |  43:14 |
 
 ---
 
