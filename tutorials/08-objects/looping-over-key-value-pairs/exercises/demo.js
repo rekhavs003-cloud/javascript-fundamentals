@@ -37,15 +37,10 @@ formatHeader("Extracting Value Vectors (Object.values)", false);
 let combinedMass = 0;
 
 // DEMO: Create an array of just the values from the objectj
-let valuesArray = Object.values(lifeSupportReserves);
 
 // DEMO: Loop over the array of values to add up the values
-for (let singleValue of valuesArray) {
-    combinedMass += singleValue;
-}
 
 // DEMO: Print a sentence with the total that was calculated
-console.log(`Total storage weight footprint calculated at: ${combinedMass} units.`);
 
 // DEMO: Make a git commit!
 
