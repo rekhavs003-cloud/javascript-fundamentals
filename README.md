@@ -197,8 +197,8 @@ This particular collection of coding exercises focuses solely on JavaScript (occ
 | Introduction to Objects                 | [objects-intro](/tutorials/08-objects/objects-intro/)                                   | [Demo](https://youtu.be/3whafTBfg8U) |   5:42 |
 | Accessing & Modifying Object Properties | [accessing-modifying-properties](/tutorials/08-objects/accessing-modifying-properties/) | [Demo](https://youtu.be/Eu6IVzAOcdg) |   6:21 |
 | The Math Module & The Spread Operator   | [math-module](/tutorials/08-objects/math-module/)                                       | [Demo](https://youtu.be/Jf0QjQJRft0) |   7:24 |
-| Object Methods & Context                | [object-methods](/tutorials/08-objects/object-methods/)                                 | _Coming soon!_                       |        |
-| Complex Objects & Mutation              | [complex-objects](/tutorials/08-objects/complex-objects/)                               | _Coming soon!_                       |        |
+| Object Methods & Context                | [object-methods](/tutorials/08-objects/object-methods/)                                 | [Demo](https://youtu.be/e8e85g2YY6U) |   8:07 |
+| Complex Objects & Mutation              | [complex-objects](/tutorials/08-objects/complex-objects/)                               | [Demo](https://youtu.be/21kqdyJF178) |   8:31 |
 | Looping Over Key/Value Pairs            | [looping-over-key-value-pairs](/tutorials/08-objects/looping-over-key-value-pairs/)     | _Coming soon!_                       |        |
 | Looping Over Arrays of Objects          | [looping-over-arrays-of-objects](/tutorials/08-objects/looping-over-arrays-of-objects/) | _Coming soon!_                       |        |
 |                                         |                                                                                         | **TOTAL**                            |        |
