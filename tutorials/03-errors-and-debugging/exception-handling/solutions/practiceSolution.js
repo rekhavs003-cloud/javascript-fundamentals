@@ -10,7 +10,7 @@
 let gridShieldCharge = 100;
 
 /*
-    TODO: Wrap the problematic code below inside a try/catch/finally sequence.
+    Wrap the problematic code below inside a try/catch/finally sequence.
     1. Inside the 'try' block, attempt to run the broken line.
     2. Inside the 'catch' block, log: "System bypassed a fatal crash." 
        and re-assign the 'gridShieldCharge' variable to 0 as a safety protocol.
@@ -33,7 +33,7 @@ try {
 let dockingClampStatus = "LOCKED";
 
 /*
-    TODO: Build a complete try/catch/finally sequence.
+    Build a complete try/catch/finally sequence.
     1. Inside 'try', log: "Attempting automated separation..." 
        Then attempt to log a non-existent variable, synchronousDeploymentStatus
     2. Inside 'catch', log: "Separation error caught! Keeping clamps locked."

@@ -18,7 +18,7 @@ const communicationArray = {
 
 /*
     TODO: Attach the 'transmitMessage' function to the 'communicationArray' 
-    object using a new key named 'broadcast'. 
+    object above using a new key named 'broadcast'. 
     Then, execute the method from the object.
 */
 
@@ -41,7 +41,6 @@ const engineeringDriveCore = {
 };
 
 // TODO: Test the method by calling it on the object.
-console.log(engineeringDriveCore.checkThermalSafety());
 
 /** EXERCISE 3: DYNAMIC REFUEL MODULATOR **/
 

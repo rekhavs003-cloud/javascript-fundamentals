@@ -10,11 +10,9 @@ const defensiveDrone = {
 	modelId: "Aegis-04",
 	ammoCount: 50,
 	// DEMO: Assign the function by reference
-	activatePropulsion: fireThruster,
 };
 
 // DEMO: Invoke the method directly off the object structure
-defensiveDrone.activatePropulsion();
 
 /** EXAMPLE 2 - INLINE METHODS & THE 'THIS' KEYWORD **/
 
