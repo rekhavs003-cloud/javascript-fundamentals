@@ -5,14 +5,28 @@
     <a href="http://www.codewithcarrie.com"><img src="https://img.shields.io/badge/by-CodeWithCarrie.com-b03454?style=for-the-badge" alt="badge linking to CodeWithCarrie's website" /></a>
     <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=333333" alt="JavaScript" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=ffffff" alt="npm" />
-    
+</div>
+
+---
+
+<div align="center">
+    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#setup">Setup</a> &bull;
+    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#1---basic-syntax">Basic Syntax</a> &bull;
+    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#2---conditionals">Conditionals</a> &bull;
+    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#3---errors--debugging">Errors & Debugging</a> &bull;
+    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#4---strings">Strings</a> &bull;
+    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#5---arrays">Arrays</a> &bull;
+    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#6---loops">Loops</a> &bull;
+    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#7---function-basics">Function Basics</a> &bull;
+    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#8---objects">Objects</a> &bull;
+    <a href="https://github.com/CodeWithCarrie/javascript-fundamentals/blob/main/README.md#9---more-on-functions">More on Functions</a>
 </div>
 
 ---
 
 ### Welcome!
 
-I am currently creating a **completely new** volume of demos and practice exercises for anyone looking to pick up the basics of programming in the context of JavaScript. In a field increasingly dominated by AI code generation, it is essential to have a firm grasp on the fundamentals in order to plan ahead, compose crystal-clear prompts, and recognize errors and poorly-formed code. The only way to build muscle is to exercise it, and learning programming is no different!
+I've created a **completely new** volume of demos and practice exercises for anyone looking to pick up the basics of programming in the context of JavaScript. In a field increasingly dominated by AI code generation, it is essential to have a firm grasp on the fundamentals in order to plan ahead, compose crystal-clear prompts, and recognize errors and poorly-formed code. The only way to build muscle is to exercise it, and learning programming is no different!
 
 > [!IMPORTANT]
 > You need to deepen your problem-solving skills and core understanding of syntax and code composition independently _before_ you can integrate AI tools in your workflow and become a more efficient developer. My learning resources are designed to do just that!
@@ -80,7 +94,7 @@ Go forth and learn!
 
 ### SETUP
 
-This particular collection of coding exercises focuses solely on JavaScript (occasionally with the readline-sync dependency installed via npm). In my demo videos, I demonstrate Git best practices, but my tutorials on Git and GitHub are in a different repository.
+This particular collection of coding exercises focuses solely on JavaScript (occasionally with the readline-sync dependency installed via npm). In my demo videos, I briefly demonstrate Git best practices to impress upon you the importance of making regular commits.
 
 > [!NOTE]
 > Make sure you have npm and Node.js [installed](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) before continuing with any of the exercises below.
