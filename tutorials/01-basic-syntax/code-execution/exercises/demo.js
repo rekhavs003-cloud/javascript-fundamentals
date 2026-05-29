@@ -4,12 +4,19 @@
 
 // DEMO: Run the code as-is to see what happens.
 
+// console.log(total);
+ // let total = num1 + num2;
+// let num1 = 3;
+//let num2 = 4;
+
+
 // DEMO: Re-order the lines below so that there are no reference errors
 // and the total prints as expected.
-console.log(total);
-let total = num1 + num2;
+
 let num1 = 3;
 let num2 = 4;
+let total = num1 + num2;
+console.log(total);
 
 /** EXAMPLE 2 - REASSIGNMENT **/
 
@@ -17,6 +24,10 @@ let num2 = 4;
 // to see those changes reflected at different points along the way.
 
 let num = 1;
+console.log(num);
+
+num = 3
+console.log(num);
 
 // DEMO: Make a git commit!
 
