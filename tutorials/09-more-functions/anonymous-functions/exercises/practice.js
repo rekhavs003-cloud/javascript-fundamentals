@@ -6,7 +6,7 @@
 */
 
 /** EXERCISE 1: THE DELAYED RADAR PING **/
-
+setTimeout(() => console.log("📡 Echo received: Object detected at 12,000km."), 3000)   ;
 console.log("Sending outbound radar frequency sweep...");
 
 /*
@@ -19,7 +19,7 @@ console.log("Sending outbound radar frequency sweep...");
 /** EXERCISE 2: EMERGENCY KLAXON TIMER **/
 
 console.log("Airlock seal breach detected! Charging secondary containment...");
-
+setTimeout(()=>console.log("🚨 Emergency magnetic shields are now online!"), 1000);
 /*
     TODO: Use 'setTimeout' to create a 1-second (1000ms) delay.
     Pass in a succinct anonymous arrow function that logs:
