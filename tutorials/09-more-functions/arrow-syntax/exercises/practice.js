@@ -11,6 +11,8 @@
 function knotsToMach(knots) {
 	return knots * 0.0015;
 }
+const convertKnotsTomach = knots=> knots * 0.0015;
+console.log (convertKnotsTomach(5000));
 
 /*
     TODO: Refactor the traditional 'knotsToMach' function above into a modern, 
