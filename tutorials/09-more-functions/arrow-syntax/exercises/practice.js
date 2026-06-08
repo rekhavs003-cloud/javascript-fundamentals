@@ -2,12 +2,12 @@
 
 /*
     Practice collapsing traditional declarations down into streamlined arrow 
-    syntaxes while managing execution sequencing constraints.
+     syntaxes while managing execution sequencing constraints.
 */
 
 /** EXERCISE 1: COLLAPSING TRAJECTORY CONVERSIONS **/
 
-// Traditional Target Configuration:
+//Traditional Target Configuration:
 function knotsToMach(knots) {
 	return knots * 0.0015;
 }
@@ -34,6 +34,10 @@ function verifyShieldThreshold(currentEnergy, safeLimit) {
     Store it in a constant named 'isShieldSafe', then log a phrase or
     sentence using a value returned from your function.
 */
+const isShieldSafe = (currentEnergy, safeLimit) => {
+    return currentEnergy >= safeLimit;
+};
+console.log("The value is:", isShieldSafe(80,100));
 
 /** EXERCISE 3: DEBUGGING THE HOISTING BLUNDER **/
 
@@ -42,9 +46,11 @@ function verifyShieldThreshold(currentEnergy, safeLimit) {
     Fix the code sequence so that it executes cleanly without throwing errors, 
     keeping the modern arrow syntax intact.
 */
-let systemAlert = formatRadioPacket("mcrn-roci", "DRIVE INITIALIZED");
+
 
 const formatRadioPacket = (callsign, status) =>
-	`[${callsign.toUpperCase()}] status update: ${status.toLowerCase()}`;
+`[${callsign.toUpperCase()}] status update: ${status.toLowerCase()}`;
+
+let systemAlert = formatRadioPacket("mcrn-roci", "DRIVE INITIALIZED");
 
 console.log(systemAlert);
